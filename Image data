@@ -1,0 +1,18 @@
+https://data.mendeley.com/datasets/n2rbrb9t4f/1
+(Link for the image dataset)
+
+Dataset for Fetus Framework
+Published: 22 September 2022
+|
+Version 1
+|
+DOI:
+10.17632/n2rbrb9t4f.1
+Contributors:
+Chen Cui
+,
+Fajin Dong
+Description
+Objective: To investigate if artificial intelligence can identify fetus intracranial structures in pregnancy weeks 11–14;
+This dataset contains 1528 2D sagittal-view ultrasound images of 1519 females collected from Shenzhen People’s Hospital. Data was used for standard/non-standard (S-NS) plane classification, a key step for NT measurement and Down Syndrome assessment. An external dataset with 156 images from the Longhua branch of Shenzhen People’s Hospital was also provided to test AI performance.
+Annotations for nine key structures (thalami, midbrain, palate, 4th ventricle, cisterna magna, nuchal translucency (NT), nasal tip, nasal skin, and nasal bone) could be found in ObjectDetection.xlsx file.
